@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/w7GfXqG/banner.jpg)
+<!--![banner](https://i.ibb.co/w7GfXqG/banner.jpg) -->
 # University
 Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. This includes homework & extra projects that I have made for the university. 
 
