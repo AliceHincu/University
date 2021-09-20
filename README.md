@@ -6,6 +6,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
 * :closed_book: Semester 1
   - [Fundamentals of programming](https://github.com/913AliceHincu/-Fundamentals-of-Programming-/tree/main) - python 
   - [Algebra](https://github.com/913AliceHincu/Algebra) - python
+  - [Computational Logic](https://github.com/913AliceHincu/operations_conversions) - python
 * :green_book: Semester 2
   
 * :orange_book: Semester 3 (NOT started)
