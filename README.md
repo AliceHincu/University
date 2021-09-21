@@ -9,7 +9,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Computational Logic](https://github.com/913AliceHincu/operations_conversions) - python
   - [Computer System Architecture](https://github.com/913AliceHincu/Computer-System-Architecture) - assembly
 * :green_book: Semester 2
-  - [Data Structures and Algorithms](https://github.com/913AliceHincu/Data-Structures-and-Algorithms)
+  - [Data Structures and Algorithms](https://github.com/913AliceHincu/Data-Structures-and-Algorithms) - c++
 * :orange_book: Semester 3 (NOT started)
   
 * :blue_book: Semester 4 (NOT started)
