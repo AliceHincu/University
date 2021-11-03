@@ -11,7 +11,8 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
 * :green_book: Semester 2
   - [Data Structures and Algorithms](https://github.com/913AliceHincu/Data-Structures-and-Algorithms) - c++
   - [Object-Oriented-Programming](https://github.com/913AliceHincu/Object-Oriented-Programming) - c/c++
-* :orange_book: Semester 3 (NOT started)
+* :orange_book: Semester 3 (NOT finished)
+* - [Computer Networks](https://github.com/AliceHincu/Computer-Networks)
   
 * :blue_book: Semester 4 (NOT started)
   
