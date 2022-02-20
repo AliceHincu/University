@@ -20,6 +20,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Computer Networks](https://github.com/AliceHincu/Computer-Networks) - c/python
   - [Functional and logical programming](https://github.com/AliceHincu/Functional-and-Logical-Programming) - prolog/lisp
   - [MAP](https://github.com/AliceHincu/ToyLanguage) - java
+  - [Probabilities and Statistics](https://github.com/AliceHincu/Probabilities-and-Statistics) - octave/matlab
   
 * :blue_book: Semester 4 (NOT started)
   
