@@ -12,6 +12,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Data Structures and Algorithms](https://github.com/913AliceHincu/Data-Structures-and-Algorithms) - c++
   - [Dyamical Systems](https://github.com/AliceHincu/Dynamical-Systems) - maple
   - [Geometry](https://github.com/AliceHincu/Geometry) - maple
+  - [Graphs](https://github.com/AliceHincu/Graphs) - python/c++
   - [Object-Oriented-Programming](https://github.com/913AliceHincu/Object-Oriented-Programming) - c/c++
   - [Operating Systems](https://github.com/AliceHincu/Operating-Systems) - c
 * :orange_book: Semester 3 (NOT finished)
