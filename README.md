@@ -16,9 +16,10 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Object-Oriented-Programming](https://github.com/913AliceHincu/Object-Oriented-Programming) - c/c++
   - [Operating Systems](https://github.com/AliceHincu/Operating-Systems) - c
 * :orange_book: Semester 3 (NOT finished)
-  - [Databases](https://github.com/AliceHincu/Databases)
-  - [Computer Networks](https://github.com/AliceHincu/Computer-Networks)
-  - [MAP](https://github.com/AliceHincu/ToyLanguage)
+  - [Databases](https://github.com/AliceHincu/Databases) - sql
+  - [Computer Networks](https://github.com/AliceHincu/Computer-Networks) - c/python
+  - [Functional and logical programming](https://github.com/AliceHincu/Functional-and-Logical-Programming) - prolog/lisp
+  - [MAP](https://github.com/AliceHincu/ToyLanguage) - java
   
 * :blue_book: Semester 4 (NOT started)
   
