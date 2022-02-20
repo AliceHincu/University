@@ -15,14 +15,13 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Graphs](https://github.com/AliceHincu/Graphs) - python/c++
   - [Object-Oriented-Programming](https://github.com/913AliceHincu/Object-Oriented-Programming) - c/c++
   - [Operating Systems](https://github.com/AliceHincu/Operating-Systems) - c
-* :orange_book: Semester 3 (NOT finished)
-  - [advanced programming methods](https://github.com/AliceHincu/Advanced-Programming-Methods) - java
+* :orange_book: Semester 3
+  - [Advanced programming methods](https://github.com/AliceHincu/Advanced-Programming-Methods) - java
   - [Databases](https://github.com/AliceHincu/Databases) - sql
   - [Computer Networks](https://github.com/AliceHincu/Computer-Networks) - c/python
   - [Functional and logical programming](https://github.com/AliceHincu/Functional-and-Logical-Programming) - prolog/lisp
   - [Probabilities and Statistics](https://github.com/AliceHincu/Probabilities-and-Statistics) - octave/matlab
-  
-* :blue_book: Semester 4 (NOT started)
+* :blue_book: Semester 4 (started)
   
 * :notebook: Semester 5 (NOT started)
   
