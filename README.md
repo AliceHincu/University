@@ -25,6 +25,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Software Engineering (ISS)](https://github.com/cs-ubbcluj-ro/ISS-Academic-Web-App) - teamwork: angular + spring
   - Software Engineering (exam solutions)
   - [Web Development](https://github.com/AliceHincu/Web-Development) - angular + php/jsp/asp.net 
+  - [Artificial Intelligence](https://github.com/AliceHincu/Artificial-Intelligence)
   
 * :notebook: Semester 5 (NOT started)
   
