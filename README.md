@@ -23,13 +23,13 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Probabilities and Statistics](https://github.com/AliceHincu/Probabilities-and-Statistics) - octave/matlab
 * :blue_book: Semester 4 
   - [Software Engineering (ISS)](https://github.com/cs-ubbcluj-ro/ISS-Academic-Web-App) - teamwork: angular + spring
-  - Software Engineering (exam solutions) - not yet pushed
   - [Web Development](https://github.com/AliceHincu/Web-Development) - angular + php/jsp/asp.net 
   - [Artificial Intelligence](https://github.com/AliceHincu/Artificial-Intelligence)
   - [DBMS](https://github.com/AliceHincu/Database-Management-System)
   - MPP - not yet pushed
-  
 * :notebook: Semester 5 (NOT started)
+  - [Formal Languages and Compiler Design](https://github.com/AliceHincu/Formal-Languages-and-Compiler-Design)
+  - [Parallel and Distributed Programming](https://github.com/AliceHincu/Parallel-and-Distributed-Programming)
   
 * :books: Semester 6 (NOT started)
   
