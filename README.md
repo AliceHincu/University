@@ -27,9 +27,10 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Artificial Intelligence](https://github.com/AliceHincu/Artificial-Intelligence)
   - [DBMS](https://github.com/AliceHincu/Database-Management-System)
   - MPP - not yet pushed
-* :notebook: Semester 5 (NOT started)
+* :notebook: Semester 5
   - [Formal Languages and Compiler Design](https://github.com/AliceHincu/Formal-Languages-and-Compiler-Design)
   - [Parallel and Distributed Programming](https://github.com/AliceHincu/Parallel-and-Distributed-Programming)
+  - [Mobile Applications](https://github.com/ma-cs-ubbcluj-ro/crud-project-AliceHincu)
   
 * :books: Semester 6 (NOT started)
   
