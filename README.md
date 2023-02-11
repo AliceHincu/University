@@ -31,7 +31,7 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Formal Languages and Compiler Design](https://github.com/AliceHincu/Formal-Languages-and-Compiler-Design)
   - [Parallel and Distributed Programming](https://github.com/AliceHincu/Parallel-and-Distributed-Programming)
   - [Mobile Applications](https://github.com/ma-cs-ubbcluj-ro/crud-project-AliceHincu)
-  - [Virtual-Reality](https://github.com/AliceHincu/Virtual-Reality)
+  - [Virtual Reality](https://github.com/AliceHincu/Virtual-Reality)
   - [Crypto](https://github.com/AliceHincu/Crypto)
   - [Research Project](https://github.com/AliceHincu/Simulation-of-Ecosystem) 
   
