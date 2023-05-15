@@ -35,5 +35,6 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Crypto](https://github.com/AliceHincu/Crypto)
   - [Research Project](https://github.com/AliceHincu/Simulation-of-Ecosystem) 
   
-* :books: Semester 6 (NOT started)
+* :books: Semester 6
+  - [Design Patterns](https://github.com/AliceHincu/DesignPatterns)
   
