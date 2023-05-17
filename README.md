@@ -37,4 +37,4 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   
 * :books: Semester 6
   - [Design Patterns](https://github.com/AliceHincu/DesignPatterns)
-  
+  - [Game Development](https://github.com/AliceHincu/GameDevelopment-3D)
