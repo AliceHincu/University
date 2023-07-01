@@ -638,3 +638,19 @@ who
 ```
 
 This will output a list of usernames, the terminals they're logged in from, and the times they logged in. The exact format may vary between systems.
+
+## ps
+If you do `ps -ef`, a list with these columns will be returned:
+```
+UID          PID    PPID  C STIME TTY          TIME CMD
+```
+
+- UID: User Identifier. This is the user ID of the user who owns the process. For example, processes started by the root user will have a UID of 0.
+- PID: Process Identifier. This is a unique number that identifies the process. PIDs are reused as processes terminate and new ones are created.
+- PPID: Parent Process Identifier. This is the PID of the parent of this process. For example, if you start a process in the background from your shell, the PPID of that process will be the PID of the shell.
+- C: CPU utilization of the process. This field represents the amount of CPU time used by the process.
+- STIME: Start Time. This is the time when the process was started.
+- TTY: Terminal Type. This represents the terminal that the process is running on. If the process is not associated with a terminal, this field may be '?'.
+- TIME: Cumulative CPU Time. This is the total CPU time the task has taken to execute. Note that this is different from real elapsed time, as a process can be in the background and not using any CPU, but still be "running".
+- CMD: Command. This is the command with all its arguments as it was typed and run by the user. If the process is a kernel thread or a process without an associated terminal, this field may not be meaningful.
+
