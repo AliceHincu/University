@@ -1,3 +1,22 @@
+# UNIX processes
+In UNIX, processes form the basis of any activity. A process, in the simplest terms, is an executing program. Each process provides the resources needed to execute a program, such as an address space, a set of data structures within the kernel, and one or more threads that execute the program code. 
+
+Let's delve deeper into each concept:
+
+1. **Creation of processes**: In Unix, every process (except the very first process, called the "init" process) is created because an existing process makes an exact copy of itself. This child process has the same environment as the parent, including the same open files, signal handling, user and group ids, and so on. 
+
+2. **fork**: This is the system call that a process uses to replicate itself. `fork` creates a new process by duplicating the existing one. The new process, called the child, is an exact copy of the calling process, called the parent, except for a few values that get changed, such as the process ID. After the `fork`, both processes run independently of each other.
+
+3. **exec**: This system call is used to run a new program in the process. It replaces the current process image with a new process image, resulting in the complete replacement of the process's code and data segment. It's typically used after a `fork` to replace the child process's image with the one we want to run.
+
+4. **exit**: This is the system call a process uses to terminate itself. When a process calls `exit`, it ends its execution and its exit status is returned to the parent process. After `exit` has been called, the process is in the "zombie" state until its parent calls `wait`.
+
+5. **wait**: This system call is used by a parent process to pause until one of its child processes terminates. `wait` also allows the parent to receive the child's exit status. Once the parent has waited on a child process, the child fully terminates and is removed from the system.
+
+6. **Pipe**: A pipe provides a mechanism for interprocess communication. Pipes allow the output of one process to be used as the input to another. For example, in a pipeline like `ls | sort`, `ls` writes to the pipe and `sort` reads from the same pipe.
+
+7. **FIFO (named pipe)**: While anonymous pipes exist only as long as the process that created them keeps running, named pipes or FIFOs are a way of creating a pipe that exists independently of the process that created it. They exist in the file system and can be created using the `mkfifo` command. Multiple processes can read and write to the pipe, but it's primarily used for one-way communication between a writer and a reader.
+
 # Basic concepts
 ## Variables
 Variables in shell programming are a means of storing data and making it available for processing. You can assign a value to a variable with `var=value` (no spaces around `=`) and reference the value with `$var`.
