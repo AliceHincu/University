@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T20:10:27.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="zkRD7DZub7nmzYMRfBSk" version="21.7.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-29T21:29:08.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="5q8_M2oJu-KXrE6vTiid" version="21.7.0" type="github" pages="4">
   <diagram name="Pagina-1" id="Rz11SaxyFHFlV68xUCTk">
     <mxGraphModel dx="2820" dy="3460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -458,7 +458,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AdG0Jz6YPMKblwOx1cET" name="Pagina-3">
-    <mxGraphModel dx="1313" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="351" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -500,6 +500,50 @@
         </mxCell>
         <mxCell id="4pyzARpVCyCj_BvxdCLw-25" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-php&quot;&gt;+ &lt;b&gt;getInstance&lt;/b&gt;(): AnteriorPostureErrorMessageBuilder&lt;br&gt;+ &lt;span class=&quot;hljs-title function_ invoke__&quot;&gt;&lt;b&gt;reset&lt;/b&gt;&lt;/span&gt;(): AnteriorPostureErrorMessageBuilder      &lt;br&gt;+ &lt;span class=&quot;hljs-title function_ invoke__&quot;&gt;&lt;b&gt;addElbowsFarMessage&lt;/b&gt;&lt;/span&gt;(&lt;span class=&quot;hljs-attr&quot;&gt;condition&lt;/span&gt;: &lt;span class=&quot;hljs-keyword&quot;&gt;boolean&lt;/span&gt;): AnteriorPostureErrorMessageBuilder &lt;br&gt;+ &lt;span class=&quot;hljs-title function_ invoke__&quot;&gt;&lt;b&gt;addUserCloseMessage&lt;/b&gt;&lt;/span&gt;(&lt;span class=&quot;hljs-attr&quot;&gt;condition&lt;/span&gt;: &lt;span class=&quot;hljs-keyword&quot;&gt;boolean&lt;/span&gt;): AnteriorPostureErrorMessageBuilder &lt;br&gt;+ &lt;span class=&quot;hljs-title function_ invoke__&quot;&gt;&lt;b&gt;addPersonLeanMessage&lt;/b&gt;&lt;/span&gt;(&lt;span class=&quot;hljs-attr&quot;&gt;leanDirection&lt;/span&gt;: &lt;span class=&quot;hljs-keyword&quot;&gt;string&lt;/span&gt;): AnteriorPostureErrorMessageBuilder &lt;br&gt;+ &lt;span class=&quot;hljs-title function_ invoke__&quot;&gt;&lt;b&gt;addHeadStraightMessage&lt;/b&gt;&lt;/span&gt;(&lt;span class=&quot;hljs-attr&quot;&gt;condition&lt;/span&gt;: &lt;span class=&quot;hljs-keyword&quot;&gt;boolean&lt;/span&gt;): AnteriorPostureErrorMessageBuilder &lt;br&gt;+ &lt;span class=&quot;hljs-title function_ invoke__&quot;&gt;&lt;b&gt;addShouldersStraightMessage&lt;/b&gt;&lt;/span&gt;(&lt;span class=&quot;hljs-attr&quot;&gt;condition&lt;/span&gt;: &lt;span class=&quot;hljs-keyword&quot;&gt;boolean&lt;/span&gt;): AnteriorPostureErrorMessageBuilder &lt;br&gt;+ &lt;span class=&quot;hljs-title function_ invoke__&quot;&gt;&lt;b&gt;addBothStraightMessage&lt;/b&gt;&lt;/span&gt;(&lt;span class=&quot;hljs-attr&quot;&gt;condition&lt;/span&gt;: &lt;span class=&quot;hljs-keyword&quot;&gt;boolean&lt;/span&gt;): AnteriorPostureErrorMessageBuilder &lt;br&gt;+ &lt;span class=&quot;hljs-title function_ invoke__&quot;&gt;&lt;b&gt;addHeadTurnedMessage&lt;/b&gt;&lt;/span&gt;(&lt;span class=&quot;hljs-attr&quot;&gt;condition&lt;/span&gt;: &lt;span class=&quot;hljs-keyword&quot;&gt;boolean&lt;/span&gt;): AnteriorPostureErrorMessageBuilder &lt;br&gt;+ &lt;span class=&quot;hljs-title function_ invoke__&quot;&gt;&lt;b&gt;build&lt;/b&gt;&lt;/span&gt;(): { message: &lt;span class=&quot;hljs-keyword&quot;&gt;string&lt;/span&gt;; details: ErrorDetails } &lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="4pyzARpVCyCj_BvxdCLw-22">
           <mxGeometry y="88" width="540" height="182" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DznkuXezrEq9h67vm7C-" name="Pagina-4">
+    <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="583" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-1" value="App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;spacing=5;spacingBottom=5;spacingTop=-2;spacingLeft=4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="640" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-2" value="AuthProvider" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;spacing=5;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="620" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-14" value="ToastContainer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;spacing=5;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="600" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-3" value="Router" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;spacing=7;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="580" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-5" value="LandingPage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-6" value="Login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-7" value="Register" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-8" value="ErgonomicsPage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-9" value="NoMatch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-10" value="PostureProcessing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-11" value="ProtectedRoute" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=left;verticalAlign=top;spacing=7;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ku4_ASMlhtpT0oeH97m-12" value="Calendar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="240" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
