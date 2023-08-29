@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T12:21:38.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.9" etag="df4UxqOQ7gByAGAlVJS0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T14:08:47.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="T4CucWdm5782bHI6szDB" version="21.6.9" type="github">
   <diagram name="Pagina-1" id="Rz11SaxyFHFlV68xUCTk">
-    <mxGraphModel>
+    <mxGraphModel dx="2217" dy="891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;gradientColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-709" y="84" width="1040" height="615" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-1" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-342.5" y="586" width="93" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YbO449KEMZVcwZ-ZlikX-1" target="YbO449KEMZVcwZ-ZlikX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-666" y="122" width="703" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-5" value="Controller &lt;br&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=left;spacing=1;spacingLeft=5;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-10">
+          <mxGeometry width="703" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-6" value="Controller &lt;br&gt;Layer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=left;spacing=1;spacingLeft=5;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-10">
+          <mxGeometry x="104" y="19" width="580" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-7" value="WebSocket Controller" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-10">
+          <mxGeometry x="199" y="31" width="211" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-9" value="Rest Controllers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-10">
+          <mxGeometry x="425" y="31" width="239" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-666" y="270" width="703" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-19" value="" style="group" vertex="1" connectable="0" parent="YbO449KEMZVcwZ-ZlikX-11">
+          <mxGeometry width="703" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-12" value="Business&lt;br&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=left;spacing=1;spacingLeft=5;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-19">
+          <mxGeometry width="703" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-13" value="Business&lt;br&gt;Layer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=left;spacing=1;spacingLeft=5;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-19">
+          <mxGeometry x="104" y="19" width="580" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-14" value="Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-19">
+          <mxGeometry x="199" y="31" width="109" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-15" value="Validators" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-19">
+          <mxGeometry x="321" y="31" width="112" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-16" value="Utilities" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-19">
+          <mxGeometry x="565" y="31" width="101" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-17" value="Actions" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-19">
+          <mxGeometry x="449" y="31" width="104" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="YbO449KEMZVcwZ-ZlikX-1" target="YbO449KEMZVcwZ-ZlikX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-666" y="417" width="703" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-21" value="Persistence&lt;br&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=left;spacing=1;spacingLeft=5;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-20">
+          <mxGeometry width="703" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-22" value="Persistence&lt;br&gt;Layer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=left;spacing=1;spacingLeft=5;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-20">
+          <mxGeometry x="104" y="19" width="580" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-23" value="Database Configuration" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-20">
+          <mxGeometry x="199" y="31" width="211" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-24" value="Models" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="YbO449KEMZVcwZ-ZlikX-20">
+          <mxGeometry x="425" y="31" width="239" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-26" value="Securiy Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=left;verticalAlign=top;spacing=6;" vertex="1" parent="1">
+          <mxGeometry x="119" y="275" width="167" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-27" value="Rest Controllers&lt;br&gt;(authentication)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="129" y="325" width="146" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-29" value="Middleware" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="431" width="145" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-31" value="App Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=top;align=left;spacing=6;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="119" y="122" width="165" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="YbO449KEMZVcwZ-ZlikX-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="129" y="161" width="145" height="82" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
