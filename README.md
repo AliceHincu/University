@@ -50,6 +50,10 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Data Mining](https://github.com/AliceHincu/IBM-Watson/tree/master)
   - [Tehnologii si Platforme Java pentru Aplicatii Distribuite](https://github.com/AliceHincu/Tehnologii-si-platforme-Java-pentru-aplicatii-distribuite)
 * 🥈 Semester 2
+  - [Web Services and Middleware Technologies](https://github.com/AliceHincu/Web-Services-and-Middleware-Technologies)
+  - [Algorithms Models and Concepts in Distributed Systems](https://github.com/AliceHincu/Algorithms-Models-and-Concepts-in-Distributed-Systems)
+  - [Grid, Cluter and Cloud Computing](https://github.com/AliceHincu/Grid-Cluster-and-Cloud-Computing)
+  - [Web and Internet Security](https://github.com/AliceHincu/Web-and-Internet-Security)
 * 🥉 Semester 3
 * 🏁 Semester 4
 
