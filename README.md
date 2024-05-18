@@ -3,6 +3,8 @@
 # University
 Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. This includes homework & extra projects that I have made for the university. To see the code for an assignment, just select what subject you are interested in, and then select the assignment (ex: Data Structures and Algorithms -> ADT Matrix and you have the code there)
 
+## Bachelor (Computer Science)
+
 * :closed_book: Semester 1
   - [Algebra](https://github.com/913AliceHincu/Algebra) - python
   - [Computational Logic](https://github.com/913AliceHincu/operations_conversions) - python
@@ -39,3 +41,18 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Design Patterns](https://github.com/AliceHincu/DesignPatterns)
   - [Game Development](https://github.com/AliceHincu/GameDevelopment-3D)
   - [SSVV](https://github.com/AliceHincu/SSVV)
+
+## Master (Distributed Systems in Internet) (Sisteme Distribuite in Internet)
+
+* 🥇 Semester 1
+  - [Etica si integritate academica](https://github.com/AliceHincu/Etica-si-integritate-academica-Metodologia-cercetarii-stiintifice)
+  - [Modular Arithmetics and Cryptography](https://github.com/AliceHincu/Modular-Arithmetics-and-Cryptography)
+  - [Data Mining](https://github.com/AliceHincu/IBM-Watson/tree/master)
+  - [Tehnologii si Platforme Java pentru Aplicatii Distribuite](https://github.com/AliceHincu/Tehnologii-si-platforme-Java-pentru-aplicatii-distribuite)
+* 🥈 Semester 2
+* 🥉 Semester 3
+* 🏁 Semester 4
+
+
+
+
