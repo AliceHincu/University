@@ -41,6 +41,9 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Design Patterns](https://github.com/AliceHincu/DesignPatterns)
   - [Game Development](https://github.com/AliceHincu/GameDevelopment-3D)
   - [SSVV](https://github.com/AliceHincu/SSVV)
+  - Bachelor Thesis
+    - [Frontend](https://github.com/AliceHincu/PosturePerfect)
+    - [Backend](https://github.com/AliceHincu/Posture-Analysis-Backend)   
 
 ## Master (Distributed Systems in Internet) (Sisteme Distribuite in Internet)
 
