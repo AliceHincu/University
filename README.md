@@ -58,8 +58,14 @@ Welcome! This is my work from University of "Babes-Bolyai" from Cluj, Romania. T
   - [Grid, Cluter and Cloud Computing](https://github.com/AliceHincu/Grid-Cluster-and-Cloud-Computing)
   - [Web and Internet Security](https://github.com/AliceHincu/Web-and-Internet-Security)
 * 🥉 Semester 3
+  - [Dynamic Networks and Specialized Operating Systems](https://github.com/AliceHincu/Dynamic-Networks-and-Specialized-Operating-Systems)
+  - [Computer Vision](https://github.com/AliceHincu/Computer-Vision)
+  - [GPU and Distributed Architecture](https://github.com/AliceHincu/GPU-and-Distributed-Architecture)
+  - MFPC - deleted homework by mistake
 * 🏁 Semester 4
-
+  - [Dissertation](https://github.com/AliceHincu/Disertation-Sortify)
+ 
+_We often find ourselves rushing toward the finish line, only to arrive and yearn to return to the beginning._
 
 
 
